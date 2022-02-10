@@ -28,7 +28,7 @@ The electronics box is seperated from the water basic portion by a leg of the LE
 The base portion of the pot in a rough sense is very simple. Outside of the air pump, the bottom portion has little to no complexity.
 ##### BUT
 There is a lid, and since it is a hydroponic garden, there is also lid variation. Since this overall design is very adaptable, the lids are simple panels with slots cut into them, to inset various sizes of cups/pods.
-![Lids](/DesignStage/Assets/LidConcept.png "lids")
+![Lids](/DesignStage/Assets/LidsConcept.png "lids")
 
 ---
 # Housing Material
